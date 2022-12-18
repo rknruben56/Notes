@@ -1,6 +1,3 @@
-# DynamoDB
-[Java with Localstack DynamoDB](https://medium.com/dandelion-tutorials/using-dynamodb-localstack-with-spring-boot-and-spring-data-b7f487bd9e9d) 
-
 # AWS re:Invent 2022
 
 ## [DynamoDB](https://www.youtube.com/watch?v=SC-YAPgJpms&t=1475s) 
